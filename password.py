@@ -1,5 +1,3 @@
-#Here's an example of a description for this project:
-
     #"Password Security Checker"
 
 #This is a simple command-line application that allows users to check the security level of their passwords. The program classifies passwords into three categories: low, medium, and high security.
